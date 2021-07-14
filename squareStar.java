@@ -1,3 +1,4 @@
+//직사각형 별찍기
 import java.util.Scanner;
 
 public class Solution {

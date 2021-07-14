@@ -1,3 +1,4 @@
+//모의고사
 class Solution { 
     final int[] m1 = {1, 2, 3, 4, 5}; 
     final int[] m2 = {2, 1, 2, 3, 2, 4, 2, 5}; 

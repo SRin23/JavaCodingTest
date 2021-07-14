@@ -1,3 +1,4 @@
+//평균구하기
 class Solution {
     public double solution(int[] arr) {
         double answer = 0;

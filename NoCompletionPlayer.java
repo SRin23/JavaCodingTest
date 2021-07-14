@@ -1,3 +1,4 @@
+//완주하지 못한 선수
 class Solution {
     public String solution(String[] participant, String[] completion) {
         String answer = "";

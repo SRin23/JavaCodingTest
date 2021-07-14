@@ -1,3 +1,4 @@
+//소수 찾기
 class Solution {
     public int solution(int n) {
         int answer = 0;

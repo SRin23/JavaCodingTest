@@ -1,3 +1,4 @@
+//서울에서 김서방 찾기
 class Solution {
     public String solution(String[] seoul) {
         String answer = "";

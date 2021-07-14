@@ -1,3 +1,4 @@
+//문자열 내 마음대로 정렬하기
 class Solution {
     public String[] solution(String[] strings, int n) {
         String[] answer = new String[strings.length];

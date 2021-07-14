@@ -1,3 +1,4 @@
+//제일 작은 수 제거하기
 class Solution {
     public int[] solution(int[] arr) {
         int[] answer = {};
