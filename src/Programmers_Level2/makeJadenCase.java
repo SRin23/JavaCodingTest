@@ -59,3 +59,21 @@ public class makeJadenCase {
     }
 
 }
+/*
+String answer = s;
+answer.toLowerCase();
+int index = 0;
+for(int i = 0; i<answer.length(); i++){
+    if(answer.charAt(i)==' '){
+        index = -1;
+    }
+    if(index==0){
+        //stem.out.println(answer.charAt(i));
+        if(answer.charAt(i)>='a'&&answer.charAt(i)<='z'){
+            System.out.println(answer.charAt(i));
+            answer.charAt(i) = answer.charAt(i)-35;
+        }
+    }
+    index++;
+}
+*/
