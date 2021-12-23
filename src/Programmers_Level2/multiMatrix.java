@@ -50,3 +50,51 @@ public class multiMatrix {
 	}
 
 }
+/*
+
+    //System.out.println(arr1.length);
+    //System.out.println(arr1[0].length);
+    //System.out.println(arr2.length);
+    //System.out.println(arr2[0].length);
+
+    for(int i = 0; i<arr1.length; i++){
+        for(int j = 0; j<arr1[0].length; j++){
+            System.out.print(arr1[i][j] + "  ");
+        }
+        System.out.println();
+    }
+    
+    System.out.println("--------------");
+    
+    for(int k = 0; k<arr2[0].length; k++){
+        for(int l = 0; l<arr2.length; l++){
+            System.out.print(arr2[l][k] + "  ");
+        }
+        System.out.println();
+    }
+    
+    return answer;
+}
+}*/
+
+/*
+class Solution {
+public int[][] solution(int[][] arr1, int[][] arr2) {
+    int[][] answer = new int[arr1.length][arr2[0].length];
+    for(int i = 0; i<arr1.length; i++){
+        for(int l = 0; l<arr2[0].length; l++){
+            int temp = 0;
+            for(int j = 0; j<arr1[0].length; j++){
+                //System.out.print("(" + arr1[i][j] + ", " + arr2[j][l] + ")");
+                temp += arr1[i][j]*arr2[j][l];
+            }
+            //System.out.print("\t");
+            answer[i][l] = temp;
+        }
+        //System.out.println();
+    }
+    
+    return answer;
+}
+}
+*/
