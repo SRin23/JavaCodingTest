@@ -1,6 +1,6 @@
 package Programmers_Level2;
 //최소값 만들기(선택정렬)
-public class MakeMinValue_SelectionSort {
+public class MakeMinValue_BubbleSort {
 
 	public static void main(String[] args) {
 		int arr1[] = { 1, 4, 2 };
