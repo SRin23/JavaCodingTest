@@ -1,6 +1,6 @@
 package Programmers_Level2;
 //JadenCase 문자열 만들기
-public class makeJadenCase {
+public class MakeJadenCase {
 
 	public static void main(String[] args) {
 		String result = solution("3people unFollowed me");

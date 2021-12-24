@@ -1,7 +1,7 @@
 package Programmers_Level2;
 
 //Çà·ÄÀÇ °ö¼À
-public class multiMatrix {
+public class MultiMatrix {
 
 	public static void main(String[] args) {
 		int arr1[][] = {{1, 4}, {3, 2}, {4, 1}};
