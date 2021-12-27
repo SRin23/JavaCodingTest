@@ -6,7 +6,7 @@ public class NextBigNumber {
 	public static void main(String[] args) {
 		int n = 78;
 		int result = solution(n);
-		System.out.println("결과 : " + result);
+		System.out.println(n + "의 다음 큰 숫자 : " + result);
 	}
 
 	public static int solution(int n) {
