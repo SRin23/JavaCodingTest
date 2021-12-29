@@ -1,5 +1,5 @@
 package Programmers_Level2;
-
+//이진변환반복하기
 public class RepeatChangeBinary {
 
 	public static void main(String[] args) {
