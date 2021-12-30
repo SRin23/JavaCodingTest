@@ -6,7 +6,6 @@ public class RepeatChangeBinary {
 	public static void main(String[] args) {
 		int[] result = solution("110010101001");
 		System.out.println("{ " + result[0] + ", " + result[1] + " }");
-
 	}
 
 	public static int[] solution(String s) {
