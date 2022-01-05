@@ -1,5 +1,5 @@
 package Programmers_Level2;
-
+//구명보트
 import java.util.Arrays;
 import java.util.Collections;
 
