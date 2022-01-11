@@ -53,3 +53,49 @@ public class PairsRemove {
         return answer;
     }
 }
+/*
+import java.util.ArrayList;
+
+class Solution
+{
+    public int solution(String s)
+    {
+        int answer = 0;
+        ArrayList<Character> chs = new ArrayList<>();
+        
+        for(int i = 0; i<s.length(); i++){
+            chs.add(s.charAt(i));
+        }
+        
+        //for(int i = 0; i<chs.size(); i++){
+        //    System.out.println(chs.get(i));
+        //}
+        
+        boolean check = false;
+        while(true){
+            check = false;
+            for(int i = 1; i<s.length();){
+                if(chs.get(i)==chs.get(i-1)){
+                    System.out.println(chs.get(i));
+                    System.out.println(chs.get(i-1));
+                    
+                    chs.remove(i);
+                    chs.remove(i-1);
+                    check = true;
+                    if(chs.size()==0){
+                        return 1;
+                    }
+                    break;
+                }
+                //System.out.println(check);
+            }
+            if(!check){
+                answer = 0;
+                break;
+            }
+        }
+
+        return answer;
+    }
+}
+*/
