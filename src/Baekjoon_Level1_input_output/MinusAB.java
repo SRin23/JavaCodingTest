@@ -1,5 +1,5 @@
 package Baekjoon_Level1_input_output;
-
+//A-B
 import java.util.Scanner;
 public class MinusAB {
 
@@ -9,6 +9,7 @@ public class MinusAB {
 		int b = sc.nextInt();
 		
 		System.out.println(a-b);
+		sc.close();
 	}
 
 }
