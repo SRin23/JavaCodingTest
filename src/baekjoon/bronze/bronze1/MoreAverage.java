@@ -1,5 +1,5 @@
 package baekjoon.level.level5;
-//Æò±ÕÀº ³Ñ°ÚÁö
+//í‰ê· ì€ ë„˜ê² ì§€
 import java.util.Scanner;
 
 public class MoreAverage {

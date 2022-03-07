@@ -1,5 +1,5 @@
 package baekjoon.bronze.bronze1;
-//ÆÓ¸°µå·Ò¼ö
+//íŒ°ë¦°ë“œë¡¬ ìˆ˜
 import java.util.Scanner;
 
 public class Palindrom {

@@ -1,5 +1,5 @@
 package baekjoon.level.level2;
-//»çºÐ¸é°í¸£±â
+//ì‚¬ë¶„ë©´ ê³ ë¥´ê¸°
 import java.util.Scanner;
 
 public class Quadrant {

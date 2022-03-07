@@ -1,5 +1,5 @@
 package baekjoon.level.level2;
-
+//오븐시계
 import java.util.Scanner;
 
 public class OvenClock {

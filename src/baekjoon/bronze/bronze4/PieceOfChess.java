@@ -1,5 +1,5 @@
 package baekjoon.bronze.bronze4;
-//Ã¼½ºÆÇ Á¶°¢
+//ì²´ìŠ¤íŒ ì¡°ê°
 import java.util.Scanner;
 
 public class PieceOfChess {

@@ -1,5 +1,5 @@
 package baekjoon.level.level5;
-//�ִ�
+//최댓값
 import java.util.Scanner;
 
 public class MaxValue {

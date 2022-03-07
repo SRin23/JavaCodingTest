@@ -1,5 +1,5 @@
 package baekjoon.level.level3;
-//±âÂï N
+//ê¸°ì° N
 import java.util.Scanner;
 
 public class NwarD {

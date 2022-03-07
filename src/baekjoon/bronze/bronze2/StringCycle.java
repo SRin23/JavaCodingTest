@@ -1,5 +1,5 @@
 package baekjoon.bronze.bronze2;
-//¹®ÀÚ¿­ ¹İº¹
+//ë¬¸ìì—´ ë°˜ë³µ
 import java.util.Scanner;
 
 public class StringCycle {

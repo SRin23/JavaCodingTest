@@ -1,5 +1,5 @@
 package baekjoon.level.level3;
-//º°Âï±â -1
+//ë³„ì°ê¸° -1
 import java.util.Scanner;
 
 public class DrawStar1 {

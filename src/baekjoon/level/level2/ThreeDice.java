@@ -1,5 +1,5 @@
 package baekjoon.level.level2;
-//ÁÖ»çÀ§ ¼¼°³
+//ì£¼ì‚¬ìœ„ ì„¸ê°œ
 /*
 1==2==3
 

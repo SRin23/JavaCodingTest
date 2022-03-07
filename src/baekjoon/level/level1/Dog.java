@@ -1,5 +1,5 @@
 package baekjoon.level.level1;
-//°³
+//ê°•ì•„ì§€
 public class Dog {
 
 	public static void main(String[] args) {

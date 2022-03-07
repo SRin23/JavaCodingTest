@@ -1,5 +1,5 @@
 package baekjoon.level.level5;
-//¼ıÀÚÀÇ °³¼ö
+//ìˆ«ìì˜ ê°œìˆ˜
 import java.util.Scanner;
 
 public class NumberNum {

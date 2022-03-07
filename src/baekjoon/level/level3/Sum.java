@@ -1,5 +1,5 @@
 package baekjoon.level.level3;
-//ÇÕ
+//í•©
 import java.util.Scanner;
 
 public class Sum {

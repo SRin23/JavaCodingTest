@@ -1,5 +1,5 @@
 package baekjoon.level.level3;
-//±¸±¸´Ü
+//êµ¬êµ¬ë‹¨
 import java.util.Scanner;
 
 public class multiplicationTable {

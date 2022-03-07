@@ -1,5 +1,5 @@
 package baekjoon.level.level3;
-//º°Âï±â -2
+//ë³„ì°ê¸° -2
 import java.util.Scanner;
 
 public class DrawStar2 {
@@ -10,10 +10,10 @@ public class DrawStar2 {
 		sc.close();
 		for(int i = 1; i<=n; i++) {
 			for(int j = n-i; j>0; j--) {
-				System.out.print(" ");	//°ø¹é ±×¸®±â
+				System.out.print(" ");	//ï¿½ï¿½ï¿½ï¿½ ï¿½×¸ï¿½ï¿½ï¿½
 			}
 			for(int k = 0; k<i; k++) {
-				System.out.print("*");	//º° ±×¸®±â
+				System.out.print("*");	//ï¿½ï¿½ ï¿½×¸ï¿½ï¿½ï¿½
 			}
 			System.out.println();
 		}

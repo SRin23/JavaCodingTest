@@ -1,5 +1,5 @@
 package baekjoon.level.level1;
-//°í¾çÀÌ
+//ê³ ì–‘ì´
 public class Cat {
 
 	public static void main(String[] args) {

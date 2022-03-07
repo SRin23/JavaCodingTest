@@ -2,7 +2,7 @@ package baekjoon.level.level1;
 //we love kriii
 public class WeLoveKriii {
 	public static void main(String[] args) {
-		System.out.println("°­ÇÑÄ£±¸ ´ëÇÑÀ°±º");
-		System.out.print("°­ÇÑÄ£±¸ ´ëÇÑÀ°±º");	
+		System.out.println("ê°•í•œì¹œêµ¬ ëŒ€í•œìœ¡êµ°");
+		System.out.print("ê°•í•œì¹œêµ¬ ëŒ€í•œìœ¡êµ°");	
 	}
 }

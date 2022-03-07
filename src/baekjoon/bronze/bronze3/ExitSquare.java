@@ -1,5 +1,5 @@
 package baekjoon.bronze.bronze3;
-//Á÷»ç°¢Çü¿¡¼­ Å»Ãâ
+//ì§ì‚¬ê°í˜•ì—ì„œ íƒˆì¶œ
 import java.util.Scanner;
 
 public class ExitSquare {
@@ -11,16 +11,14 @@ public class ExitSquare {
 		int h = sc.nextInt();
 		sc.close();
 		
-		int width = Distance(x, w);	//ÇöÀç À§Ä¡¿Í °¡·ÎÃà¿¡¼­ÀÇ ÃÖ¼Ò°Å¸®
-		int height = Distance(y, h);//ÇöÀç À§Ä¡¿Í ¼¼·ÎÃà¿¡¼­ÀÇ ÃÖ¼Ò°Å¸®
+		int width = Distance(x, w);	//í˜„ì¬ ìœ„ì¹˜ì™€ ê°€ë¡œì¶•ì—ì„œì˜ ìµœì†Œ ê±°ë¦¬
+		int height = Distance(y, h);//í˜„ì¬ ìœ„ì¹˜ì™€ ì„¸ë¡œì¶•ì—ì„œì˜ ìµœì†Œ ê±°ë¦¬
 		
-		//°¡·Î¿Í ¼¼·Î Áß ´õ ÂªÀº ÃÖ¼Ò °Å¸® ±¸ÇÏ±â
+		//ë” ê°€ê¹Œìš´ ê±°ë¦¬ ì°¾ê¸°
 		if(height < width) System.out.println(height);
 		else System.out.println(width);
 	}
-	
-	//Á÷»ç°¢Çü °æ°è¿Í ÇöÀç À§Ä¡ »çÀÌÀÇ ÃÖ¼Ò °Å¸® ±¸ÇÏ±â
-	//mÀº ÇöÀç À§Ä¡, lenÀº Á÷»ç°¢ÇüÀÇ ±æÀÌ(°¡·Î/¼¼·Î)
+
 	public static int Distance(int m, int len) {
 		int result = 0;
 		if(m > len/2) {

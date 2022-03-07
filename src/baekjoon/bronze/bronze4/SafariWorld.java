@@ -1,5 +1,5 @@
 package baekjoon.bronze.bronze4;
-//»çÆÄ¸® ¿ùµå
+//ì‚¬íŒŒë¦¬ ì›”ë“œ
 import java.math.BigInteger;
 import java.util.Scanner;
 

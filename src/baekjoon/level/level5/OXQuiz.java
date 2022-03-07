@@ -1,5 +1,5 @@
 package baekjoon.level.level5;
-//OX ÄûÁî
+//OX í€´ì¦ˆ
 import java.util.Scanner;
 
 public class OXQuiz {

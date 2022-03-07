@@ -1,5 +1,5 @@
 package baekjoon.level.level2;
-//½ÃÇè ¼ºÀû
+//ì‹œí—˜ ì„±ì 
 import java.util.Scanner;
 
 public class TestScore {

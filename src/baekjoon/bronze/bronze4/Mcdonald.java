@@ -1,5 +1,5 @@
 package baekjoon.bronze.bronze4;
-//»ó±Ù³¯µå
+//ìƒê·¼ë‚ ë“œ
 import java.util.Scanner;
 
 public class Mcdonald {

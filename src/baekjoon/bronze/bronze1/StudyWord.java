@@ -1,5 +1,5 @@
 package baekjoon.bronze.bronze1;
-//´Ü¾î °øºÎ
+//ë‹¨ì–´ ê³µë¶€
 import java.util.Scanner;
 
 public class StudyWord {

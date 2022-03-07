@@ -1,5 +1,5 @@
 package baekjoon.level.level2;
-//À±³â
+//ìœ¤ë…„
 import java.util.Scanner;
 
 public class leapYear {

@@ -1,5 +1,5 @@
 package baekjoon.bronze.bronze2;
-//À½°è
+//ìŒê³„
 import java.util.Scanner;
 
 public class Scale {

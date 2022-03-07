@@ -1,5 +1,5 @@
 package baekjoon.level.level5;
-//ÃÖ¼Ò, ÃÖ´ë
+//ìµœì†Œ, ìµœëŒ€
 import java.util.Scanner;
 
 public class MaxMin {

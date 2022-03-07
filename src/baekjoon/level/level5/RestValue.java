@@ -1,6 +1,6 @@
 package baekjoon.level.level5;
 
-//³ª¸ÓÁö
+//ë‚˜ë¨¸ì§€
 import java.util.Scanner;
 
 public class RestValue {

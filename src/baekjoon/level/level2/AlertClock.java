@@ -1,5 +1,5 @@
 package baekjoon.level.level2;
-//¾Ë¶÷½Ã°è
+//ì•ŒëžŒì‹œê³„
 import java.util.Scanner;
 
 public class AlertClock {

@@ -1,5 +1,5 @@
 package baekjoon.level.level1;
-//³ª¸ÓÁö
+//ë‚˜ë¨¸ì§€
 import java.util.Scanner;
 
 public class RestValueComp {

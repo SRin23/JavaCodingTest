@@ -1,5 +1,5 @@
 package baekjoon.level.level1;
-//1998³â»ıÀÎ ³»°¡ ÅÂ±¹¿¡¼­´Â 2541³â»ı?!
+//1998ë…„ìƒì¸ ë‚´ê°€ íƒœêµ­ì—ì„œëŠ” 2541ë…„ìƒ?!
 import java.util.Scanner;
 public class MyBirthday {
 
@@ -8,7 +8,7 @@ public class MyBirthday {
 		int thailandYear = sc.nextInt();
 		sc.close();
 		
-		//¼­±â¿¬µµ¿Í ºÒ±â¿¬µµÀÇ Â÷ÀÌ°ª 
+		//ì„œê¸°ì—°ë„ì™€ ë¶ˆê¸°ì—°ë„ì˜ ì°¨ì´ê°’
 		int diff = 543;
 		System.out.println(thailandYear-diff);
 	}

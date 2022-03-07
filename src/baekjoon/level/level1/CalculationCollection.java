@@ -1,5 +1,5 @@
 package baekjoon.level.level1;
-// »çÄ¢¿¬»ê
+// ì‚¬ì¹™ì—°ì‚°
 import java.util.Scanner;
 
 public class CalculationCollection {

@@ -1,6 +1,6 @@
 package baekjoon.bronze.bronze2;
 
-//´Ü¾î °³¼ö
+//ë‹¨ì–´ ê°œìˆ˜
 import java.util.Scanner;
 
 public class WordNum {

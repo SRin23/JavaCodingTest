@@ -1,5 +1,5 @@
 package baekjoon.bronze.bronze2;
-//¾ËÆÄºª Ã£±â
+//ì•ŒíŒŒë²³ ì°¾ê¸°
 import java.util.Arrays;
 import java.util.Scanner;
 

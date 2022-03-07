@@ -1,5 +1,5 @@
 package baekjoon.level.level5;
-//Æò±Õ
+//í‰ê· 
 import java.util.Scanner;
 
 public class Average {
@@ -20,7 +20,7 @@ public class Average {
 
 		double result = 0;
 		for(int i = 0; i<n; i++) {
-			result += (double)score[i]/max*100;	//Çüº¯È¯ ÁÖÀÇ!!
+			result += (double)score[i]/max*100;	//í˜•ë³€í™˜ ì£¼ì˜!!
 		}
 		
 		System.out.println(result/n);

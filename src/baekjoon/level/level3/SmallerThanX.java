@@ -1,5 +1,5 @@
 package baekjoon.level.level3;
-//xº¸´Ù ÀÛÀº ¼ö 
+//xë³´ë‹¤ ì‘ì€ ìˆ˜
 import java.util.Scanner;
 
 public class SmallerThanX {

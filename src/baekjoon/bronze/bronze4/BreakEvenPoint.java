@@ -1,5 +1,5 @@
 package baekjoon.bronze.bronze4;
-//¼ÕÀÍ ºĞ±âÁ¡
+//ì†ìµ ë¶„ê¸°ì 
 import java.util.Scanner;
 
 public class BreakEvenPoint {

@@ -1,5 +1,5 @@
 package baekjoon.level.level2;
-//µÎ ¼ö ºñ±³ÇÏ±â
+//ë‘ ìˆ˜ ë¹„êµí•˜ê¸°
 import java.util.Scanner;
 
 public class Compare {

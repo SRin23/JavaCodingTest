@@ -1,6 +1,6 @@
 package baekjoon.bronze.bronze2;
-//ºĞÇØÇÕ
-//101x + 11y + 2z = ºĞÇØÇÕÀÇ »ı¼ºÀÚ
+//ë¶„í•´í•©
+//101x + 11y + 2z = ë¶„í•´í•©ì˜ ìƒì„±ì
 import java.util.Scanner;
 
 public class DecompositionSum {
