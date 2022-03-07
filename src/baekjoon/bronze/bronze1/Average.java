@@ -1,4 +1,4 @@
-package baekjoon.level.level5;
+package baekjoon.bronze.bronze1;
 //평균
 import java.util.Scanner;
 
