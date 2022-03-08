@@ -1,6 +1,6 @@
 package baekjoon.bronze.bronze5;
 
-//Å« ¼ö A+B
+//í° ìˆ˜ A+B
 import java.math.BigInteger;
 import java.util.Scanner;
 

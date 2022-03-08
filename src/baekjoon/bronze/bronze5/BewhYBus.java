@@ -1,5 +1,5 @@
 package baekjoon.bronze.bronze5;
-
+//ë¹„ì™€ì´ë²„ìŠ¤
 import java.util.Scanner;
 
 public class BewhYBus {
@@ -17,7 +17,7 @@ public class BewhYBus {
 		}
 		System.out.println(person);
 		sc.close();
-		System.out.println("ºñ¿ÍÀÌ");
+		System.out.println("ë¹„ì™€ì´");
 	}
 
 }
