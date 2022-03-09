@@ -1,5 +1,6 @@
+package programmers.level1;
 //예산
-class Solution {
+class budget {
     public int solution(int[] d, int budget) {
         int answer = 0;
         

@@ -1,5 +1,7 @@
+package programmers.level1;
+
 //서울에서 김서방 찾기
-class Solution {
+class findKimSubang {
     public String solution(String[] seoul) {
         String answer = "";
         int position = 0;

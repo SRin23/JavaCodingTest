@@ -1,12 +1,12 @@
 package programmers.level1;
-//ÃÖ´ë°ø¾à¼ö¿Í ÃÖ¼Ò°ø¹è¼ö
+//ìµœëŒ€ê³µì•½ìˆ˜ì™€ ìµœì†Œê³µë°°ìˆ˜
 public class GCDnLCM {
 
 	public static void main(String[] args) {
 		int n = 3;
 		int m = 12;
 		int[] result = solution(n, m);
-		System.out.print("°á°ú : ");
+		System.out.print("ê²°ê³¼ : ");
 		for(int i = 0; i<result.length; i++) {
 			System.out.print(result[i] + "\t");
 		}
@@ -16,7 +16,7 @@ public class GCDnLCM {
         
         int tn = n;
         int tm = m;
-        //ÃÖ´ë °ø¾à¼ö
+        //ìµœëŒ€ ê³µì•½ìˆ˜
         while(tm != 0) {
 		    int temp = tn % tm;
 		    tn = tm;
@@ -24,9 +24,31 @@ public class GCDnLCM {
 	    }
         answer[0] = tn;
         
-        //ÃÖ¼Ò °ø¹è¼ö
+        //ìµœì†Œ ê³µë°°ìˆ˜
         answer[1] = m * n / tn;
         
         return answer;
     }
 }
+/*
+public int[] solution(int n, int m) {
+        int[] answer = new int[2];
+        if(n>m){
+            int tmp = n;
+            n = m;
+            m = tmp;
+        }
+
+        //ìµœëŒ€ê³µì•½ìˆ˜
+        for(int i = 1; i<m; i++){
+            if(n%i==0&&m%i==0){
+                answer[0] = i;
+            }
+        }
+
+        //ìµœì†Œê³µë°°ìˆ˜
+        answer[1] = n*m/answer[0];
+        return answer;
+    }
+
+ */

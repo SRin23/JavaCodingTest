@@ -1,5 +1,8 @@
+package programmers.level1;
+
 //나누어 떨어지는 숫자 배열
-class Solution {
+class divisorNumber
+{
     public int[] solution(int[] arr, int divisor) {
         int[] answer = {};
         int array[] = new int[arr.length];

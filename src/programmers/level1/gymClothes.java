@@ -1,5 +1,6 @@
+package programmers.level1;
 //체육복
-class Solution {
+class gymClothes {
     public int solution(int n, int[] lost, int[] reserve) {
         int answer = n;
         int cnt = 0;

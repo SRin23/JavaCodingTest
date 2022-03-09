@@ -1,5 +1,7 @@
+package programmers.level1;
+
 //완주하지 못한 선수
-class Solution {
+class NoCompletionPlayer {
     public String solution(String[] participant, String[] completion) {
         String answer = "";
         int cnt;

@@ -1,4 +1,6 @@
-class Solution {
+package programmers.level2;
+//N개의 최소 공배수
+class NSmallMultiNumber {
     public int solution(int[] arr) {
         int answer = 1;
         int temp[] = new int[100];

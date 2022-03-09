@@ -1,5 +1,7 @@
+package programmers.level1;
+
 //비밀지도(2018 카카오 신입 공채)
-class Solution {
+class SecretMap {
     public String[] solution(int n, int[] arr1, int[] arr2) {
         String[] answer = new String[n];
         int binary1[][] = new int[n][n];

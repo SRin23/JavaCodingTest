@@ -1,8 +1,9 @@
+package programmers.level1;
 //소수 찾기
-class Solution {
+class findPrimeNumber {
     public int solution(int n) {
         int answer = 0;
-        
+
         for(int i = 2;i<=n; i++){
             boolean cnt = true;
             cnt = true;
@@ -15,7 +16,7 @@ class Solution {
             if(cnt){
                 answer++;
             }
-            
+
         }
         return answer;
     }

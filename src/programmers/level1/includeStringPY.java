@@ -1,5 +1,6 @@
+package programmers.level1;
 //문자열 내 p와 y의 개수
-class Solution {
+class includeStringPY {
     boolean solution(String s) {
         boolean answer = true;
         int cntP = 0;

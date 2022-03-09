@@ -1,5 +1,7 @@
+package programmers.level1;
+
 //두정수 사이의 합
-class Solution {
+class betweenIntAB {
     public long solution(int a, int b) {
         long answer = 0;
         if(a>b){

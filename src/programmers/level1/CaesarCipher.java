@@ -1,5 +1,7 @@
+package programmers.level1;
+
 //시저 암호
-class Solution {
+class CaesarCipher {
     public String solution(String s, int n) {
         String answer = "";
         for(int i = 0; i<s.length(); i++){

@@ -1,5 +1,7 @@
+package programmers.level1;
+
 //폰켓몬
-class Solution {
+class Phoneketmon {
     public int solution(int[] nums) {
         int answer = 0;
         for(int i = 0; i<nums.length-1; i++){

@@ -1,5 +1,5 @@
 package programmers.level1;
-//Çà·ÄÀÇ µ¡¼À
+//í–‰ë ¬ì˜ ë§ì…ˆ
 public class MatrixSum {
 
 	public static void main(String[] args) {
@@ -7,7 +7,7 @@ public class MatrixSum {
 		int[][] arr2 = {{3, 4}, {5, 6}};
 		int[][] result = solution(arr1, arr2);
 		
-		System.out.print("°á°ú : ");
+		System.out.print("ï¿½ï¿½ï¿½ : ");
 		for(int i = 0; i<arr1.length; i++) {
 			System.out.print("{");
 			for(int j = 0; j<arr1[0].length; j++) {

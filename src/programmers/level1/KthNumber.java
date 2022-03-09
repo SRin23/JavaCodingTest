@@ -1,6 +1,6 @@
-//K번째 수
+package programmers.level1;//K번째 수
 
-class Solution {
+class KthNumber {
     public int[] solution(int[] array, int[][] commands) {
      int[] answer = new int[commands.length];
         

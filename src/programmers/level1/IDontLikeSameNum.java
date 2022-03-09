@@ -1,7 +1,8 @@
+package programmers.level1;
 //같은 숫자는 싫어
 import java.util.*;
 
-public class Solution {
+public class IDontLikeSameNum {
     public int[] solution(int []arr) {
         int cnt = 1;
         for(int i = 0; i<arr.length-1; i++){

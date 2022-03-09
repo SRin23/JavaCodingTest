@@ -1,5 +1,7 @@
+package programmers.level1;
+
 //제일 작은 수 제거하기
-class Solution {
+class DeleteArrMin {
     public int[] solution(int[] arr) {
         int[] answer = {};
         if(arr.length == 1){

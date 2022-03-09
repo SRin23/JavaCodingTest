@@ -1,6 +1,6 @@
 package programmers.level1;
 import java.util.Scanner;
-//Á÷»ç°¢Çü º°Âï±â
+//ì§ì‚¬ê°í˜• ë³„ì°ê¸°
 public class SquareStar {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

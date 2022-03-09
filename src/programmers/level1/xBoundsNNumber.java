@@ -1,12 +1,12 @@
 package programmers.level1;
-//x¸¸Å­ °£°İÀÌ ÀÖ´Â n°³ÀÇ ¼ıÀÚ
+//xë§Œí¼ ê°„ê²©ì´ ìˆëŠ” nê°œì˜ ìˆ«ì
 public class xBoundsNNumber {
 
 	public static void main(String[] args) {
 		int x = 2; 
 		int y = 5; 
 		long[] result = solution(x, y);
-		System.out.print("°á°ú : ");
+		System.out.print("ï¿½ï¿½ï¿½ : ");
 		for(int i = 0; i<y; i++) {
 			System.out.print(result[i] + ", ");
 		}
@@ -22,3 +22,15 @@ public class xBoundsNNumber {
         return answer;
     }
 }
+/*
+public long[] solution(int x, int n) {
+        long[] answer = {};
+        long cpx = x;
+        answer = new long[n];
+
+        for(int i = 0; i<n; i++){
+            answer[i] = cpx + (i*cpx);
+        }
+        return answer;
+    }
+ */

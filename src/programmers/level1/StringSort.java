@@ -1,5 +1,7 @@
+package programmers.level1;
+
 //문자열 내 마음대로 정렬하기
-class Solution {
+class StringSort {
     public String[] solution(String[] strings, int n) {
         String[] answer = new String[strings.length];
         for(int i = 0; i<strings.length-1; i++){
