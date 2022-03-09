@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # JavaCodingTest
-Java 코딩테스트 연습
-=======
-# Programmers_level1_Java
->>>>>>> programmersJava/main
+
+* 프로그래머스
+
+* 백준 알고리즘
