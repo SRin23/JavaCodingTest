@@ -9,11 +9,10 @@ public class TVSize {
 		int d = sc.nextInt();
 		int h = sc.nextInt();
 		int w = sc.nextInt();
-		sc.close();
+
 		
-		double result = Math.pow(d, 2);
-		
-		
+		double a = Math.sqrt(Math.pow(d, 2)/(Math.pow(h, 2) + Math.pow(w, 2)));
+		System.out.println((int)(h*a) + " " + (int)(w*a));
 	}
 
 }

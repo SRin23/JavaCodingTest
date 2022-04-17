@@ -13,8 +13,15 @@ public class AIClock {
 		
 		int d = sc.nextInt();
 		sc.close();
-		
-		
+
+		second += d;
+		minute += second/60;
+		second %= 60;
+		hour += minute/60;
+		minute%=60;
+		hour%=24;
+
+		System.out.println(hour + " " + minute + " " + second);
 	}
 
 }
